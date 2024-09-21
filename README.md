@@ -1,27 +1,67 @@
-# 💫 About Me:
-Hi there! I am a passionate software engineer from Ecuador, always seeking new opportunities to learn and grow. I love tackling challenges and being part of innovative projects that allow me to improve my skills and contribute to the team's success.<br><br>My focus is on creating efficient, scalable, and high-quality solutions, with a proactive and results-driven attitude. I’m constantly updating my knowledge to stay on top of the latest technologies and industry trends.<br><br>If you’re looking for someone eager to stand out, with great motivation and enthusiasm for learning, I would love to be part of your next project!
+<h1 align="center">
+  <b>Abhigyan Trips</b>
+</h1>
 
+Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
+<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
+and learning programming through small projects  on the side.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/washington.llumitaxi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/david-llumitaxi-10b26322a) 
+<br>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Washington Llumitaxi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Washington Llumitaxi&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Washington Llumitaxi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+</div>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Washington Llumitaxi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+```python
+class AbhigyanTrips():
+    
+  def __init__(self):
+    self.name = "Abhigyan Tripathi";
+    self.username = "abhigyantrips";
+    self.location = "Mumbai, India";
+    self.twitter = "@abhigyantrips";
+    self.web = "https://abhigyantrips.dev";
+  
+  def __str__(self):
+    return self.name
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+if __name__ == '__main__':
+    me = AbhigyanTrips()
+```
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Washington Llumitaxi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=Washington Llumitaxi&icon=0&color=0)](https://visitcount.itsvg.in)
+<!--
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
+  </a>
+</div>
+-->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+
+------
+
+Credit: [abhigyantrips](https://github.com/abhigyantrips)
+
+Last Edited on: 24/12/2021
